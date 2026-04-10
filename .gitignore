@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js app dependencies and caches
+AEaaS-Web/node_modules/
+AEaaS-Web/.npm-cache/
+AEaaS-Web/.next/
+AEaaS-Web/out/
+AEaaS-Web/.vercel/
+AEaaS-Web/coverage/
+AEaaS-Web/*.tsbuildinfo
+
+# Local environment files
+AEaaS-Web/.env
+AEaaS-Web/.env.local
+AEaaS-Web/.env.development.local
+AEaaS-Web/.env.test.local
+AEaaS-Web/.env.production.local
